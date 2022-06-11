@@ -1,4 +1,5 @@
 # Random-Lottery
-The deployed contract address : 0xB21C28d99214ee5114D1898Fded7761f40259511
+This is another LearnWeb3DAO project I built. 
 
-You will need testnet MATIC to play this game
+The deployed contract address (Mumbai polygon) : 0xB21C28d99214ee5114D1898Fded7761f40259511
+
